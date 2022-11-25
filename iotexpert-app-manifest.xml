@@ -1,0 +1,143 @@
+<apps>
+  
+  <app>
+    <name>IoT Expert FreeRTOS Template</name>
+    <id>mtb2-freertos-template</id>
+    <uri>https://github.com/iotexpert/mtb2-freertos-template</uri>
+    <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+  
+  <app>
+   <name>IoT Expert FreeRTOS NTShell Template</name>
+   <id>mtb2-freertos-ntshell-template</id>
+   <uri>https://github.com/iotexpert/mtb2-freertos-ntshell-template</uri>
+   <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task and the ntshell task</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+  </app>
+  
+  <app>
+   <name>IoT Expert BLE Scanner</name>
+   <id>mtb2-anycloud-blescanner</id>
+   <uri>https://github.com/iotexpert/AnyCloudBLEScanner</uri>
+   <description>An AnyCloud based BLE Scanner for PSoC 6 and 43xxxx</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>part10</commit>
+     </version>
+   </versions>
+  </app>
+
+<app>
+    <name>IoT Expert Embedded World 2021 Lesson 1</name>
+    <id>ew21-lesson1</id>
+    <uri>https://github.com/iotexpert/ew21-lesson1</uri>
+    <description>This is Lesson 1 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+<app>
+    <name>IoT Expert Embedded World 2021 Lesson 2</name>
+    <id>ew21-lesson2</id>
+    <uri>https://github.com/iotexpert/ew21-lesson2</uri>
+    <description>This is Lesson 2 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+<app>
+    <name>IoT Expert Embedded World 2021 Lesson 3</name>
+    <id>ew21-lesson3</id>
+    <uri>https://github.com/iotexpert/ew21-lesson3</uri>
+    <description>This is Lesson 3 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+<app>
+    <name>IoT Expert Embedded World 2021 Lesson 4</name>
+    <id>ew21-lesson4</id>
+    <uri>https://github.com/iotexpert/ew21-lesson4</uri>
+    <description>This is Lesson 4 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+  <app>
+    <name>IoT Expert Embedded World 2021 Lesson 5</name>
+    <id>ew21-lesson5</id>
+    <uri>https://github.com/iotexpert/ew21-lesson5</uri>
+    <description>This is Lesson 5 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+  <app>
+    <name>IoT Expert Embedded World 2021 Lesson 6</name>
+    <id>ew21-lesson6</id>
+    <uri>https://github.com/iotexpert/ew21-lesson6</uri>
+    <description>This is Lesson 6 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+  <app>
+    <name>IoT Expert Embedded World 2021 Lesson 7</name>
+    <id>ew21-lesson7</id>
+    <uri>https://github.com/iotexpert/ew21-lesson7</uri>
+    <description>This is Lesson 7 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+</apps>

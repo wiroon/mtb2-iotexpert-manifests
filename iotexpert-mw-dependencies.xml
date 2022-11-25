@@ -1,0 +1,17 @@
+<dependencies version="2.0">
+  <depender>
+    <id>wifi_helper</id>
+    <versions>
+      <version>
+        <commit>main</commit>
+        <dependees>
+          <dependee>
+            <id>wcm</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+
+</dependencies>

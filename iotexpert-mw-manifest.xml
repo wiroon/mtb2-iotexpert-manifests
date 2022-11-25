@@ -1,0 +1,120 @@
+<middleware>
+
+  <middleware>
+    <name>ntshell</name>
+    <id>ntshell</id>
+    <uri>https://github.com/iotexpert/middleware-ntshell</uri>
+    <desc>NT Shell library for Cypress PSoC6 Anycloud</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+
+  <middleware>
+      <name>Bluetooth Utilities</name>
+    <id>btutil</id>
+    <uri>https://github.com/iotexpert/btutil</uri>
+    <desc>A library of Bluetooth Debugging Utilties for Cypress PSoC6 Anycloud</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>master</num>
+        <commit>master</commit>
+        <desc>master</desc>
+      </version>
+    </versions>
+  </middleware>
+  
+  <middleware>  
+    <name>IoT Expert Graphics</name>
+    <id>iotexpert-graphics</id>
+    <uri>https://github.com/iotexpert/IoTExpertGraphics</uri>
+    <desc>A library of IoT Expert Graphics</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>master</num>
+        <commit>master</commit>
+        <desc>master</desc>
+      </version>
+    </versions>
+  </middleware>
+
+<middleware>
+      <name>TLx493D 3D Magnetic Sensor</name>
+    <id>TLx493D</id>
+    <uri>https://github.com/iotexpert/TLx493D_3Dmagnetic</uri>
+    <desc>A library to interface with Infineon TLx493D 3D magnetic sensors</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>master</num>
+        <commit>master</commit>
+        <desc>master</desc>
+      </version>
+    </versions>
+  </middleware>
+
+<middleware>
+      <name>TLE9879 Brushless DC Motor Driver Shield</name>
+    <id>TLE9879_BLDC_Shield</id>
+    <uri>https://github.com/iotexpert/TLE9879_BLDC_Shield</uri>
+    <desc>A library to interface with the Infineon TLE9879 BLDC Motor Driver Shield</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>master</num>
+        <commit>master</commit>
+        <desc>master</desc>
+      </version>
+    </versions>
+  </middleware>
+
+<middleware>
+      <name>WS2812 LED Strip Library</name>
+    <id>WS2812_LED</id>
+    <uri>https://github.com/iotexpert/ws2812_led</uri>
+    <desc>A library to interface with 2812 LED strips</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>main</num>
+        <commit>main</commit>
+        <desc>main</desc>
+      </version>
+    </versions>
+  </middleware>
+
+  <middleware>
+    <name>WiFi Helper Utilties</name>
+    <id>wifi_helper</id>
+    <uri>https://github.com/iotexpert/wifi_helper</uri>
+    <desc>A library WiFi Helper utilities (e.g. aton)</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>main</num>
+        <commit>main</commit>
+        <desc>main</desc>
+      </version>
+    </versions>
+  </middleware>
+
+</middleware>
