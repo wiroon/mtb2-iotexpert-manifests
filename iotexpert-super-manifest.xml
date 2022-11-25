@@ -4,7 +4,7 @@
   
   <app-manifest-list>
     <app-manifest>
-      <uri>https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-app-manifest.xml</uri>
+      <uri>https://raw.githubusercontent.com/wiroon/mtb2-iotexpert-manifests/main/iotexpert-app-manifest.xml</uri>
       </app-manifest>
    </app-manifest-list>
   <board-manifest-list>
