@@ -2,6 +2,7 @@
   
   <app>
     <name>IoT Expert FreeRTOS Template</name>
+    <category>IoT Expert Template</category>
     <id>mtb2-freertos-template</id>
     <uri>https://github.com/iotexpert/mtb2-freertos-template</uri>
     <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task</description>
@@ -16,6 +17,7 @@
   
   <app>
    <name>IoT Expert FreeRTOS NTShell Template</name>
+   <category>IoT Expert Template</category>
    <id>mtb2-freertos-ntshell-template</id>
    <uri>https://github.com/iotexpert/mtb2-freertos-ntshell-template</uri>
    <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task and the ntshell task</description>
@@ -30,6 +32,7 @@
   
   <app>
    <name>IoT Expert BLE Scanner</name>
+   <category>IoT Expert Template</category>
    <id>mtb2-anycloud-blescanner</id>
    <uri>https://github.com/iotexpert/AnyCloudBLEScanner</uri>
    <description>An AnyCloud based BLE Scanner for PSoC 6 and 43xxxx</description>
@@ -44,6 +47,7 @@
 
 <app>
     <name>IoT Expert Embedded World 2021 Lesson 1</name>
+    <category>IoT Expert Template</category>
     <id>ew21-lesson1</id>
     <uri>https://github.com/iotexpert/ew21-lesson1</uri>
     <description>This is Lesson 1 from Embedded World 2021</description>
@@ -58,6 +62,7 @@
 
 <app>
     <name>IoT Expert Embedded World 2021 Lesson 2</name>
+    <category>IoT Expert Template</category>
     <id>ew21-lesson2</id>
     <uri>https://github.com/iotexpert/ew21-lesson2</uri>
     <description>This is Lesson 2 from Embedded World 2021</description>
@@ -72,6 +77,7 @@
 
 <app>
     <name>IoT Expert Embedded World 2021 Lesson 3</name>
+    <category>IoT Expert Template</category>
     <id>ew21-lesson3</id>
     <uri>https://github.com/iotexpert/ew21-lesson3</uri>
     <description>This is Lesson 3 from Embedded World 2021</description>
@@ -86,6 +92,7 @@
 
 <app>
     <name>IoT Expert Embedded World 2021 Lesson 4</name>
+    <category>IoT Expert Template</category>
     <id>ew21-lesson4</id>
     <uri>https://github.com/iotexpert/ew21-lesson4</uri>
     <description>This is Lesson 4 from Embedded World 2021</description>
@@ -100,6 +107,7 @@
 
   <app>
     <name>IoT Expert Embedded World 2021 Lesson 5</name>
+    <category>IoT Expert Template</category>
     <id>ew21-lesson5</id>
     <uri>https://github.com/iotexpert/ew21-lesson5</uri>
     <description>This is Lesson 5 from Embedded World 2021</description>
@@ -114,6 +122,7 @@
 
   <app>
     <name>IoT Expert Embedded World 2021 Lesson 6</name>
+    <category>IoT Expert Template</category>
     <id>ew21-lesson6</id>
     <uri>https://github.com/iotexpert/ew21-lesson6</uri>
     <description>This is Lesson 6 from Embedded World 2021</description>
@@ -128,6 +137,7 @@
 
   <app>
     <name>IoT Expert Embedded World 2021 Lesson 7</name>
+    <category>IoT Expert Template</category>
     <id>ew21-lesson7</id>
     <uri>https://github.com/iotexpert/ew21-lesson7</uri>
     <description>This is Lesson 7 from Embedded World 2021</description>
